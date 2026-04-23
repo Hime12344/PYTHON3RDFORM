@@ -23,7 +23,7 @@ A secure system only grants access if the username and password are both correct
 user = input("Username: ")
 password = input("Password: ")
 
-if user == "admin" and password == ______:
+if user == "admin" and password == "9unn£r67_s0_4ur4":
     print("Access granted")
 
 
@@ -32,6 +32,8 @@ if user == "admin" and password == ______:
 Q3
 A program needs to check whether a number is inside a certain range. The number should count as "In range" if it is between 1 and 10, including both 1 and 10. Complete the missing part of the code so that the range check works correctly.
 ·       Read the condition carefully.
+-56
+
 ·       The number must be greater than or equal to 1.
 ·       Complete the upper limit so the range is from 1 to 10 inclusive.
 num = int(input("Enter number: "))
